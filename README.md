@@ -110,6 +110,12 @@ The best way to install Node is to use _nvm_ (Node Version Manager).
 <summary>How to set up nvm on my machine</summary>
 <br/>
 
+**Install development dependencies on Linux**
+
+This projects uses Ghostscript. To install this dependency on Ubuntu flavoured distributions:
+
+    $ sudo apt install libgs-dev
+
 **Install nvm and Node on Linux or macOS**
 
 Follow these [installation instructions](https://github.com/nvm-sh/nvm#installation-and-update) to set up nvm on your machine. <br/>
